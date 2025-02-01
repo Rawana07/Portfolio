@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Jayesh Vyas";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["Your Online Finance Expert !", "Fastest way to gain Business Success", "The Right Candidate for Your Business"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -171,7 +171,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // window.onload = fadeOut;
 // pre loader end
 
-// disable developer mode
+// diVyas developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
