@@ -1,11 +1,11 @@
 [
     {
         "name": "income tax",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "icon": "https://media-hosting.imagekit.io//37b4c183a9714112/taxes.png?Expires=1836225280&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=L7hVWbMtoh7BmbB4eakJn2QmH987-yHQmJEN9fMWzgxEJ3Ho2sH0da2s4pMPAzYGLqcVqY6BCGvvomI3tiAn4RwxrpVDdKsAkHTaQ7F22oaYG6q7gXNIq3-ykcZTuvZdVxIIUhsoWTQJUsuCSVcO9FIF3h572OB792oTSU6vy5CCt6jO2xRbuj5B3ThZh-rmbRfcnJIDCbxPU5TGl~vOLBoyeZN7Msn61FUAUA2zU4qzf8GiCAKYEefj9sjpc-6gh75oXRjzyhbkBDJD00s8VDu1en0vrfGVYafRJ00GpfuxyUiBkqiD4o0dfMbiDhCrrf~W1cx48z3GAiScY2ViaQ__"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "GST",
+        "icon": "https://img1.wsimg.com/isteam/ip/98a85246-e7b0-42f4-a5e4-9c6fd1fab3fa/gst-registration.jpg/:/rs=w:800,cg:true,m"
     },
     {
         "name": "NodeJS",
